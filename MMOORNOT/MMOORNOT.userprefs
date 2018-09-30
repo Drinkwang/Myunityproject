@@ -1,24 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\AppFactory.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\controller\controllerM\IC.cs">
     <Files>
       <File FileName="Assets\Script\controller\controllerM\IC.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\modle\proxy\Baseproxy.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\modle\proxy\Goodproxy.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\view\item.cs" Line="31" Column="6" />
-      <File FileName="Assets\Script\view\packageComponent.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\view\Packageview.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\view\view.cs" Line="17" Column="6" />
-      <File FileName="Assets\Script\AppFactory.cs" Line="23" Column="10" />
-      <File FileName="Assets\Script\Observer.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\view\Vmediator.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\modle\Packagemodel.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\controller\controllerM\RendertoViewcommand.cs" Line="17" Column="7" />
-      <File FileName="Assets\Script\controller\controller.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\modle\Goodsmodel.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\modle\proxy\PackProxy.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\controller\controllerM\AddGoodscommand.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\modle\Basemodel.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
