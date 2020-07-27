@@ -39,7 +39,7 @@ this is rpg for all The whole platform（eg：andriod，widnow。nothing to else
 ## Authors
 
 * **junkeD·wang** - [Github](https://github.com/Drinkwang)
-<br>[![B站 Follow](b站 follow)](https://space.bilibili.com/13061595)  
+<br>![B站 Follow](https://space.bilibili.com/13061595)  
 
 ## License
 
