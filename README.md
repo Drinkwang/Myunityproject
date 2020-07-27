@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="400px" src="https://drinker.site/img/git.png">    
+    <img width="400px" src="https://github.com/Drinkwang/drinkwang.github.io/blob/master/img/git.png?raw=true">    
 </p>
 
 # 这是我的一个mmo rpg的项目，是基于普通的mvc，并没有基于spring，晚上写完这部分内容，大脑有点发昏，所以就写错了
