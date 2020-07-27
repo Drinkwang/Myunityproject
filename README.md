@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="400px" src="https://drinker.site/img/git.png">    
+</p>
+
 # 这是我的一个mmo rpg的项目，是基于普通的mvc，并没有基于spring，晚上写完这部分内容，大脑有点发昏，所以就写错了
 this is rpg for all The whole platform（eg：andriod，widnow。nothing to else）
 该项目基于mvc搭建，通过view controller model的一个物品栏，之后会添加更多功能，包括场景搭建在内的，例如任务框，使用物品，状态栏。接受任务，完成任务。线程池储存敌方单位，以及一个会追踪并攻击玩家的ai
@@ -32,3 +36,11 @@ this is rpg for all The whole platform（eg：andriod，widnow。nothing to else
 人物成八字。。多少和鼠标中键坏了的缘故以及3dsmax本身也不太熟悉，更重要本身不太熟悉的我还很久没碰，应该可以完成，但是估计要花太多时间去弄了。。
 
 最后大致想了下剧情，一个乌托邦的小村庄，预计后续开发的换装系统，找不到合适的资源放弃。准备弄个选择人物的系统代替，可以选择场景内任意人物，然后在这个小村落探险接任务，可以弄个pk系统。然后左上角可以刷怪去打。等级系统也可以。嗯如果时间足够的话在上诉写的功能项进一步扩充。
+## Authors
+
+* **junkeD·wang** - [Github](https://github.com/Drinkwang)
+<br>[![B站 Follow](b站 follow)](https://space.bilibili.com/13061595)  
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
